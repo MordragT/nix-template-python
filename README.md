@@ -2,7 +2,7 @@
 
 # ❄️ nix-template-python 🐍
 
-[![NixOS](https://img.shields.io/badge/Made_for-Python-blue.svg?logo=python)](https://nixos.org) [![NixOS](https://img.shields.io/badge/Flakes-Nix-informational.svg?logo=nixos)](https://nixos.org) ![License](https://img.shields.io/github/license/modragt/nix-template-python) 
+[![NixOS](https://img.shields.io/badge/Made_for-Python-blue.svg?logo=python)](https://nixos.org) [![NixOS](https://img.shields.io/badge/Flakes-Nix-informational.svg?logo=nixos)](https://nixos.org) ![License](https://img.shields.io/github/license/mordragt/nix-template-python) 
 
 Minimal **Python** development template for **Nix**
 
