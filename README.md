@@ -6,6 +6,8 @@
 
 Minimal **Python** development template for **Nix**
 
+</div>
+
 #### Who is this for
 
 - Someone who wants to apply Nix's power for Python development.
